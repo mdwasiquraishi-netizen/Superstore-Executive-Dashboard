@@ -19,4 +19,33 @@ The main objective of this project is to develop an interactive executive-level 
 11)-How does sales performance change when filtering by year, region, ship mode, segment, or category?
 12)-Which product areas should management focus on to improve overall sales?
 
-# Dashboard Interaction <a href="
+- Dashboard Interaction <a href="https://github.com/mdwasiquraishi-netizen/Superstore-Executive-Dashboard/blob/main/Screenshot%202026-08-20%20142912.png">View Dashboard</a>
+
+## Process
+1)-Data Collection
+2)-Data Cleaning
+3)-Data Modeling
+4)-DAX Measures
+5)-Dashboard Design
+6)-Create KPI cards
+7)-Create visualization Charts
+8)-Insert Slicers
+
+## Dashboard
+<img width="982" height="551" alt="Screenshot 2026-08-20 142912" src="https://github.com/user-attachments/assets/cf1e51a7-a832-4450-9998-ba2a9ddf5ef7" />
+
+## Project Insights
+1)-The business generated approximately 5.82M in total sales.
+2)-The dashboard recorded approximately 10K orders.
+3)-There are 793 customers represented in the dashboard.
+4)-The business sold approximately 25K units of products.
+5)-Technology is the highest-selling category, contributing approximately 37.46% of total sales.
+6)-Furniture contributes approximately 32.34% of sales.
+7)-Office Supplies contributes approximately 30.20% of total sales.
+8)-The West region is the strongest region, contributing approximately 31.49% of sales.
+9)-The East region contributes approximately 29.62%, followed by Central and South.
+10)-Among the displayed sub-categories, Chairs and Phones have the highest sales at approximately 0.85M each
+
+## Conclusions
+Overall, this project demonstrates how Power BI, Power Query, DAX, data modeling, and interactive visualization can transform raw Superstore data into an executive-friendly business intelligence solution for data-driven decision-making.
+
