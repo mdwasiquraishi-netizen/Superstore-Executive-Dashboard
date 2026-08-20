@@ -1,2 +1,3 @@
 # Superstore-Executive-Dashboard
-An interactive Superstore Executive Dashboard built using Microsoft Power BI to analyze sales performance, orders, customers, quantity, product categories, regions, sub-categories, and monthly sales trends.
+## Project Objectives
+The main objective of this project is to develop an interactive executive-level sales dashboard in Power BI that transforms Superstore sales data into meaningful business insights.
